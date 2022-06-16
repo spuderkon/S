@@ -1,0 +1,11 @@
+.images{
+    display: flex;
+
+}
+
+.image{
+    max-width: 15%;
+    border: black solid 1.7px;
+    border-radius: 5px;
+    margin: 5px;
+}
